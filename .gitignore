@@ -1,2 +1,3 @@
 # ignore IntelliJ IDE specific files
 .idea
+.DS_Store
