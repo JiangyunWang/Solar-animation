@@ -2,7 +2,7 @@
 
 Our team will work on creating an animation to show the revolution of the Earth around the Sun as well as the rotation of themselves for this project
 
-**Deployed on Heroku Server: https://solar-system-animation.herokuapp.com/**
+**Deployed on render Server: https://solar-system-animation.onrender.com/**
 
 ![Intro](Introduction.png)
 
